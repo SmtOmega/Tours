@@ -10,4 +10,4 @@ below is the design of the tours project using React and vanilla Css
 
 ![A mobile view of the page](./src/images/mobilePage.png)
 
-![Page view after all the tours have been deleted](./src/images/pageView)
+![Page view after all the tours have been deleted](./src/images/pageView.png)
